@@ -25,8 +25,8 @@ To run this project, you'll need Python installed on your system. This project r
 1. **Clone the Repository**
 
    
-   git clone <repository_url>
-   cd <repository_directory>
+   git clone "https://github.com/kartavyaojha/BRUTEFORCE_PROJECT"
+   cd "BRUTEFORCE_PROJECT"
 
     Install Dependencies
 
